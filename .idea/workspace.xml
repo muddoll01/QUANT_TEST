@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e901bf4-ac7e-45eb-9f25-0d4fa73f58f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert_symbols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_retrieval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quandl_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quantitative.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retrieving_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/securities_master.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/查询.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/QUANT_PRACTICE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/insert_symbols.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="106">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
               <folding>
                 <element signature="e#64#101#0" expanded="true" />
               </folding>
@@ -275,6 +268,14 @@
       <option name="presentableId" value="Default" />
       <updated>1591770462155</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1592896504920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592896504920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -290,7 +291,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.12322946" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.2857143" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -298,6 +299,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -516,8 +521,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/insert_symbols.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="106">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
             <element signature="e#64#101#0" expanded="true" />
           </folding>
