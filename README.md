@@ -1,2 +1,0 @@
-# QUANT_TEST
-测试
