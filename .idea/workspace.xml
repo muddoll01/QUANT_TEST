@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e901bf4-ac7e-45eb-9f25-0d4fa73f58f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/insert_symbols.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/price_retrieval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quandl_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantitative.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/retrieving_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/securities_master.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查询.sql" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python3量化交易视频最新教程机器学习金融分析回测策略案例实战/简单系统/backtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+            <state relative-caret-position="2750">
+              <caret line="113" column="38" selection-start-line="113" selection-start-column="38" selection-end-line="113" selection-end-column="38" />
               <folding>
                 <element signature="e#58#95#0" expanded="true" />
               </folding>
@@ -36,30 +25,57 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3量化交易视频最新教程机器学习金融分析回测策略案例实战/简单系统/event.py">
+        <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class4/1_基本类型和计算.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1200" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3量化交易视频最新教程机器学习金融分析回测策略案例实战/简单系统/mac.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2081">
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3量化交易视频最新教程机器学习金融分析回测策略案例实战/简单系统/portfolio.py">
+        <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class4/5_异常处理.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5981">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="975">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class5/pandas基础操作.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6400">
+              <caret line="256" column="34" selection-start-line="256" selection-start-column="29" selection-end-line="256" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class6/3_转换数据周期_resample操作.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class6/4_分组处理操作_groupby.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1600">
+              <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class7/【案例1】okex获取ticker数据.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="18" />
               <folding>
-                <element signature="e#59#96#0" expanded="true" />
+                <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1905" />
@@ -100,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,13 +131,26 @@
             <path>
               <item name="QUANT_PRACTICE" type="b2602c69:ProjectViewProjectNode" />
               <item name="QUANT_PRACTICE" type="462c0819:PsiDirectoryNode" />
-              <item name="Python3量化交易视频最新教程机器学习金融分析回测策略案例实战" type="462c0819:PsiDirectoryNode" />
-              <item name="简单系统" type="462c0819:PsiDirectoryNode" />
+              <item name="Python数字货币量化投资课程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QUANT_PRACTICE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QUANT_PRACTICE" type="462c0819:PsiDirectoryNode" />
+              <item name="Python数字货币量化投资课程" type="462c0819:PsiDirectoryNode" />
+              <item name="coin_quant_class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QUANT_PRACTICE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QUANT_PRACTICE" type="462c0819:PsiDirectoryNode" />
+              <item name="Python数字货币量化投资课程" type="462c0819:PsiDirectoryNode" />
+              <item name="coin_quant_class" type="462c0819:PsiDirectoryNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,14 +304,34 @@
       <option name="project" value="LOCAL" />
       <updated>1592896504920</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1594019979863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594019979863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1594020054883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594020054883</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1594022840855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594022840855</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15587847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2305152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -412,19 +460,67 @@
     <entry file="file://$PROJECT_DIR$/Python3量化交易视频最新教程机器学习金融分析回测策略案例实战/简单系统/portfolio.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5981">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#59#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class5/dataframe格式说明.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python3量化交易视频最新教程机器学习金融分析回测策略案例实战/简单系统/backtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        <state relative-caret-position="2750">
+          <caret line="113" column="38" selection-start-line="113" selection-start-column="38" selection-end-line="113" selection-end-column="38" />
           <folding>
             <element signature="e#58#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class4/1_基本类型和计算.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class4/5_异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class5/pandas基础操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6400">
+          <caret line="256" column="34" selection-start-line="256" selection-start-column="29" selection-end-line="256" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class6/3_转换数据周期_resample操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class6/4_分组处理操作_groupby.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class7/【案例1】okex获取ticker数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
