@@ -2,6 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e901bf4-ac7e-45eb-9f25-0d4fa73f58f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ZY_QUANT/data/说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/backtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/create_lagged_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/grid_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/hft_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/hft_portfolio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/intraday_mr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/iqfeed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/k_fold_cross_val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/mac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/performance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/plot_drawdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/plot_performance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/plot_sharpe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/portfolio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/snp_forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/strategy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/train_test_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/上课笔记.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/北风网-Python金融应用编程/algotrading/下载必看.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class7/【案例1】okex获取ticker数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -104,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1905" />
@@ -116,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,34 +147,10 @@
               <item name="QUANT_PRACTICE" type="b2602c69:ProjectViewProjectNode" />
               <item name="QUANT_PRACTICE" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="QUANT_PRACTICE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QUANT_PRACTICE" type="462c0819:PsiDirectoryNode" />
-              <item name="Python3量化交易视频最新教程机器学习金融分析回测策略案例实战" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QUANT_PRACTICE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QUANT_PRACTICE" type="462c0819:PsiDirectoryNode" />
-              <item name="Python数字货币量化投资课程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QUANT_PRACTICE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QUANT_PRACTICE" type="462c0819:PsiDirectoryNode" />
-              <item name="Python数字货币量化投资课程" type="462c0819:PsiDirectoryNode" />
-              <item name="coin_quant_class" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QUANT_PRACTICE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QUANT_PRACTICE" type="462c0819:PsiDirectoryNode" />
-              <item name="Python数字货币量化投资课程" type="462c0819:PsiDirectoryNode" />
-              <item name="coin_quant_class" type="462c0819:PsiDirectoryNode" />
-              <item name="program" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,9 +329,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2305152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.164465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -517,8 +517,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python数字货币量化投资课程/coin_quant_class/program/class7/【案例1】okex获取ticker数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
